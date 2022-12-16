@@ -1,8 +1,6 @@
 package org.ieti;
 
 public class tabel {
-}
-public class tabel {
 
     private static final String[] COLUMN_NAMES = {"Name of the car brand",
             "Model",
